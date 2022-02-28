@@ -1,5 +1,5 @@
 <p align="center">
-     <h1 align="center">State-Channels---Hybrid-decentralized-P2P-Network-with-routing-algorythm</h1>
+     <h1 align="center">State-Channels - Hybrid decentralized P2P Network with routing algorythm</h1>
 </p>
 This project consists in creating a software system capable of connecting to a P2P overlay network. In particular, it refers to a P2P network of State Channels.
 A state channel is a channel between two peers capable of maintaining a state until the latter is closed. The state is made up of the balance sheet of the two peers, that needs to be consistent after every exchange of digital currency between them.
@@ -34,6 +34,7 @@ The system is based on a hybridized decentralized peer-to-peer network design mo
 
 A common hybrid model has a central server that helps peers find each other. It was favored over models with unstructured pure networks or pure structured networks because some functions, such as search, require centralized functionality but benefit from the decentralized aggregation of nodes provided by unstructured networks.
 
+![Transaction example](img/transaction_example.gif)
 ## Contact
 
 Andrea Lombardi - [@LinkedIn](https://www.linkedin.com/in/andrea-lombardi/)
