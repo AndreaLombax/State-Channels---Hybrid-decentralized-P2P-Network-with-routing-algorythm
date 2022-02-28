@@ -36,7 +36,7 @@ A common hybrid model has a central server that helps peers find each other. It 
 
 Below there is an example of the management of a transaction by the overlay network that covers different routing cases. Let's assume a transaction of amount 5 by Peer 1 destined for Peer 5.
 <p align="center">
-     ![Transaction example](img/transaction_example.gif)
+     <img src="img/transaction_example.gif">
 </p>
 ## Contact
 
