@@ -38,6 +38,8 @@ Below there is an example of the management of a transaction by the overlay netw
 <p align="center">
      <img src="img/transaction_example.gif">
 </p>
+
+
 ## Contact
 
 Andrea Lombardi - [@LinkedIn](https://www.linkedin.com/in/andrea-lombardi/)
