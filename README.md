@@ -34,7 +34,10 @@ The system is based on a hybridized decentralized peer-to-peer network design mo
 
 A common hybrid model has a central server that helps peers find each other. It was favored over models with unstructured pure networks or pure structured networks because some functions, such as search, require centralized functionality but benefit from the decentralized aggregation of nodes provided by unstructured networks.
 
-![Transaction example](img/transaction_example.gif)
+Below there is an example of the management of a transaction by the overlay network that covers different routing cases. Let's assume a transaction of amount 5 by Peer 1 destined for Peer 5.
+<p align="center">
+     ![Transaction example](img/transaction_example.gif)
+</p>
 ## Contact
 
 Andrea Lombardi - [@LinkedIn](https://www.linkedin.com/in/andrea-lombardi/)
