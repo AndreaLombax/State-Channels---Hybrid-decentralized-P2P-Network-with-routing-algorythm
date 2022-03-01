@@ -40,6 +40,7 @@ Below there is an example of the management of a transaction by the overlay netw
 </p>
 
 
-## Contact
+## Contacts
 
 Andrea Lombardi - [@LinkedIn](https://www.linkedin.com/in/andrea-lombardi/)
+Davide Cosimo Riccio - [@LinkedIn](https://www.linkedin.com/in/davide-cosimo-riccio-2102a122a/) - [@Github](https://github.com/driccio9)
